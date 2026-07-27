@@ -10,11 +10,19 @@
 
 ## 📊 Visualizations
 
-### 🏘️ The Mann-Whitney-Wilcoxon Criterion (Albuquerque House Prices)
+### 🎩🤵🏻 Age at that European aristocrats die (The Pearson's Test)
 
-#### 📈 p-value (by the Mann-Whitney-Wilcoxon criterion): 0.402204078621
+#### 📈 p-value (by the Pearson's  test): ~ 1.52 * 10 ^ {-26} (1.5181184197728794e-26)
+
+<img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Age%20at%20that%20European%20aristocrats%20die%20Pearson%60s%20Test.png" />
+
+### 🏘️ Albuquerque House Prices (The Mann-Whitney-Wilcoxon Test)
+
+#### 📈 p-value (by the Mann-Whitney-Wilcoxon test): 0.402204078621
 
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Mann-Whitney-Wilcoxon%20U-test.png" />
+
+### 👩‍👩‍👧‍👦 Population of Soviet cities (the Shapiro-Wilk test)
 
 #### 📈 p-value (by the Shapiro-Wilk test): ~ 3.15 * 10 ^ {-12} (3.1499992999375674e-12)
 
