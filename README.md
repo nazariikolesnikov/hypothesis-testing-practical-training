@@ -1,4 +1,4 @@
-# Hypothesis Testing (Practical Training)
+## Hypothesis Testing (Practical Training)
 
 ## 🤖 Technologies
 
@@ -10,7 +10,15 @@
 
 ## 📊 Visualizations
 
-### 🏘️ The Mann-Whitney-Wilcoxon U-test (Albuquerque House Prices)
+### 🏘️ The Mann-Whitney-Wilcoxon Criterion (Albuquerque House Prices)
+
+#### ⚙️ Project: [hypothesis-testing-practical-training](https://github.com/nazariikolesnikov/hypothesis-testing-practical-training)
+
+#### 📈 p-value (by the Mann-Whitney-Wilcoxon criterion): 0.402204078621
 
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Mann-Whitney-Wilcoxon%20U-test.png" />
+
+#### 📈 p-value (by the Shapiro-Wilk test): ~ 3.15 * 10 ^ {-12} (3.1499992999375674e-12)
+
+<img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Town%201959%20Shapiro-Wilk%20Test.png" />
 
