@@ -12,8 +12,6 @@
 
 ### 🏘️ The Mann-Whitney-Wilcoxon Criterion (Albuquerque House Prices)
 
-#### ⚙️ Project: [hypothesis-testing-practical-training](https://github.com/nazariikolesnikov/hypothesis-testing-practical-training)
-
 #### 📈 p-value (by the Mann-Whitney-Wilcoxon criterion): 0.402204078621
 
 <img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Mann-Whitney-Wilcoxon%20U-test.png" />
