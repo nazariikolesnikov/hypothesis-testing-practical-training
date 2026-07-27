@@ -12,5 +12,5 @@
 
 ### 🏘️ The Mann-Whitney-Wilcoxon U-test (Albuquerque House Prices)
 
-<img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Mann-Whitney%20U-test.png" />
+<img width="5647" height="3107" alt="Mann-Whitney U-test" src="https://github.com/nazariikolesnikov/hypothesis-testing-practical-training/blob/main/Mann-Whitney-Wilcoxon%20U-test.png" />
 
