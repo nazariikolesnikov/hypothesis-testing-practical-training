@@ -1,5 +1,10 @@
 ## Hypothesis Testing (Practical Training)
 
+## 📝 Description
+
+The Shapiro-Wilk test. The Mann-Whitney-Wilcoxon test. Student's t-test. The Fligner-Killin test.
+Independent and paired samples. The chi-square test. Pearson's test.
+
 ## 🤖 Technologies
 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
